@@ -3675,7 +3675,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "setuptools",
   "sha256": "25103100212e5192749edfc8aafb346ccc82309e92d770faa5fa38047503a086",
   "size": 955868,
   "subdir": "win-64",
